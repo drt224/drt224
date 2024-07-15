@@ -1,12 +1,12 @@
 {
-"name": "drt224",
+"name": "pani",
 "version": "2.1.2",
-"description": "drt224 has been designed to make things easier and fun while using WhatsApp. 👨‍💻❤️",
+"description": "pani has been designed to make things easier and fun while using WhatsApp. 👨‍💻❤️",
 "main": "start.js",
 "scripts": {
-"start": "pm2 start start.js --deep-monitoring --attach --name drt224",
-"stop": "pm2 stop drt224",
-"restart": "pm2 restart drt224"
+"start": "pm2 start start.js --deep-monitoring --attach --name pani",
+"stop": "pm2 stop pani",
+"restart": "pm2 restart pani"
 },
 "dependencies": {
 "@whiskeysockets/baileys": "git+https://github.com/prabathLK/Baileys-6.0.0.git",
